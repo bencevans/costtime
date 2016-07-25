@@ -1,0 +1,34 @@
+{
+  "name": "costtime",
+  "version": "0.0.0",
+  "description": "Cost per Hour * Time Spent - Contracting Calculator",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bencevans/costtime.git"
+  },
+  "keywords": [
+    "cost",
+    "time",
+    "calculator",
+    "hours",
+    "rate",
+    "contracting",
+    "freelancing"
+  ],
+  "author": "Ben Evans <ben@bensbit.co.uk> (https://bencevans.io)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bencevans/costtime/issues"
+  },
+  "homepage": "https://github.com/bencevans/costtime#readme",
+  "devDependencies": {
+    "tape": "^4.6.0"
+  },
+  "dependencies": {
+    "parse-duration": "^0.1.1"
+  }
+}
